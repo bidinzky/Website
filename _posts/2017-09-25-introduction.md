@@ -8,8 +8,9 @@ sub_heading: An introduction to Forestry
 tags:
 - Demo
 - Forestry
-layout: post
+layout: postcjcjxjcjcj
 banner_image: ''
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
