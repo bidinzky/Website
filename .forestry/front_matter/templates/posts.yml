@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/2018-09-28-test.md
 - _posts/2018-09-28-ytes.md
